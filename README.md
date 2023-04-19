@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am the founder of IsBizde and RWAZONE platforms. Together with my team, we have been working on these platforms since 2018. I am proficient in programming languages such as Java, Python, C#, C++, PHP, and Ruby, and I still have a strong interest in learning and developing in these languages. I also have experience in web development, database management, and graphic design.<br><br>Currently, I am working with a friend to develop our own game for the Steam platform. Contributing to open source projects and making valuable contributions to communities is an important mission for me. I take great pleasure in contributing to the Github community.
+Hello, I am the founder of IsBizde and RWAZONE platforms. Together with my team, we have been working on these platforms since 2018. I am proficient in programming languages such as Java, Python, C#, C++, PHP, Ruby, etc. and I still have a strong interest in learning and developing in these languages. I also have experience in web development, database management, and graphic design.<br><br>Currently, I am working with a friend to develop our own game for the Steam platform. Contributing to open source projects and making valuable contributions to communities is an important mission for me. I take great pleasure in contributing to the Github community.
 
 
 ## 🌐 Socials:
@@ -23,9 +23,3 @@ Hello, I am the founder of IsBizde and RWAZONE platforms. Together with my team,
 
 ---
 [![](https://visitcount.itsvg.in/api?id=redwhite0&icon=6&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/clover) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
