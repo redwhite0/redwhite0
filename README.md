@@ -10,8 +10,5 @@ Hello, I am the founder of IsBizde and RWAZONE platforms. Together with my team,
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=redwhite0&icon=6&color=0)](https://visitcount.itsvg.in)
